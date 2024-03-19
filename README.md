@@ -1,11 +1,12 @@
 # LastFM-Discord-RPC
 ![logo](assets/logo.png)<br />
-This adds RPC to Discord from LastFM.<br />
-It will show:
-* Display currently listening to music from LastFM to Discord
-* Display LastFM profile picture to rich presence (Optional)
-* Display scrobble amount to rich presence (Optional)
-* Display the current songs lyrics in your bio (Optional, Beta) [Please read](#lyrics)
+LastFM-Discord-RPC adds a Remote Procedure Call (RPC) to Discord from LastFM.
+Adding RPC to Discord will display:<br />
+* Currently playing song from LastFM to Discord
+* Your LastFM profile picture to Rich Presence (Optional)
+* Scrobble amount (how many times you listened to a song) to Rich Presence (Optional)
+* The currently playing song's lyrics to your bio (Optional, Beta -  [Please read](#lyrics))
+
 
 <details>
 <summary><a name="lyrics"></a><H2>Lyrics 🎤</H2></summary>
