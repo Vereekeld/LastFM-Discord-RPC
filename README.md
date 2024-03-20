@@ -15,7 +15,7 @@ To add Lyrics:
 1. Go to Discord (https://discord.com/) and select **Login**. 
 2. Enter your Email or phone number and password.
 3. After logging in, select the Gear Icon (**User Settings**) on the lower-left corner of Discord.
-4. Got to **User Settings > Profiles > About Me**.
+4. Go to **User Settings > Profiles > About Me**.
 5. Right-click in the About Me text-box and select **Inspect**
 6. A panel opens in your browser:<br/>
      * For Microsoft Edge, select Network Icon.<br/>
