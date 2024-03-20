@@ -10,7 +10,7 @@ Adding RPC to Discord will display:<br />
 
 <details>
 <summary><a name="lyrics"></a><H2>Add Lyrics to Discord Bio</H2></summary>
-To enable Lyrics:
+To add Lyrics:
 
 1. Go to Discord (https://discord.com/) and select **Login**. 
 2. Enter your Email or phone number and password.
@@ -18,8 +18,8 @@ To enable Lyrics:
 4. Got to **User Settings > Profiles > About Me**.
 5. Right-click in the About Me text-box and select **Inspect**
 6. A panel opens in your browser:<br/>
-   * For Microsoft Edge, select Network Icon.<br/>
-   * For Google Chrome and FireFox, select Network tab.</br>
+     * For Microsoft Edge, select Network Icon.<br/>
+     * For Google Chrome and FireFox, select Network tab.</br>
 8. Edit your bio and select **Save Changes**.
 9. A event called "Profile" should now be in the network section, right click it and copy as cCurl (Bash) 
 10. Paste it into https://curlconverter.com/python/ 
