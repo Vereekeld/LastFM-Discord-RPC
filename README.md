@@ -18,8 +18,8 @@ To enable Lyrics:
       <li> Got to **User Settings > Profiles > About Me**.</li>
       <li> Right-click in the About Me text-box and select **Inspect** </li>
       <li> A panel opens in your browser:
-            <li>For Microsoft Edge, select Network Icon.</li> 
-            <li>For Google Chrome and FireFox, select Network tab. </li> 
+            *For Microsoft Edge, select Network Icon.
+            *For Google Chrome and FireFox, select Network tab. 
       </li>
       <li> Edit your bio and select **Save Changes**.</li>
       <li> A event called "Profile" should now be in the network section, right click it and copy as cCurl (Bash) </li>
