@@ -30,9 +30,9 @@ To add Lyrics:
 ## Requirements 🛠️
 1. Create a LastFM API Key (https://www.last.fm/api/account/create).
 2. Install the packaged version [here](https://github.com/chubbyyb/LastFM-Discord-RPC/releases/tag/v0.2).
-3. Run ```lfmRPC.exe```<br />
+3. Run ```lfmRPC.exe```
            ![image](https://github.com/chubbyyb/LastFM-Discord-RPC/assets/79348344/b574a340-135f-44d0-93e8-a9b014021057)
-4. Press settings, input your username and API key.<br />
+4. Press settings, input your username and API key.
            ![image](https://github.com/chubbyyb/LastFM-Discord-RPC/assets/79348344/fc20e5f6-0d4a-4447-8ce6-78b12e319517)
 6. Restart the program.
 
